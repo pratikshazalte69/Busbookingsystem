@@ -1,10 +1,18 @@
+Project Name: # Busbookingsystem
+MICROSFOT AZURE MINI PROJECT USING APP SERVICES AND SQL DATABSE SERVICES
+Group Members: Pratiksha zalte, Sakshi singh
+-------------------------------------------------------------------------------------------------------------------
+Project documentation Link:-
 [azuredoument.pdf](https://github.com/pratikshazalte69/Busbookingsystem/files/13243159/azuredoument.pdf)
+
+-------------------------------------------------------------------------------------------------------------------
+Project description:-
+
 The online bus booking system is a user-friendly web application that enables travelers to effortlessly plan and book bus journeys. The app connects to a secure SQL database that stores essential data like bus routes, seat availability, user profiles, and bookings. Users can register, search for routes, check seat availability, make reservations, and complete payments within the app. The back-end system handles authentication, route management, and booking processing, while the SQL database ensures data integrity and reliability. This efficient system streamlines the bus booking process, providing a convenient and hassle-free experience for travelers. we have deployed project on  Azure CI-CD pipelines.
 
 
 
-<img width="483" alt="image" src="https://github.com/pratikshazalte69/Busbookingsystem/assets/123250052/e7088f99-8af3-441e-9aba-d5da9ddc7bef"># Busbookingsystem
-MICROSFOT AZURE MINI PROJECT USING APP SERVICES AND SQL DATABSE SERVICES
+<img width="483" alt="image" src="https://github.com/pratikshazalte69/Busbookingsystem/assets/123250052/e7088f99-8af3-441e-9aba-d5da9ddc7bef">
 ![Picture13](https://github.com/pratikshazalte69/Busbookingsystem/assets/123250052/af844d86-90a6-4e06-bbb2-962e04102df9)
 ![appservice](https://github.com/pratikshazalte69/Busbookingsystem/assets/123250052/d4e26020-f4ef-461e-ab04-7f38dab3d654)
 ![sqldb](https://github.com/pratikshazalte69/Busbookingsystem/assets/123250052/9c852c76-7ac5-45a6-8178-b02560712e29)
