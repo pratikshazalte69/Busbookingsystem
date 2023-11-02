@@ -1,3 +1,4 @@
+[azuredoument.pdf](https://github.com/pratikshazalte69/Busbookingsystem/files/13243159/azuredoument.pdf)
 The online bus booking system is a user-friendly web application that enables travelers to effortlessly plan and book bus journeys. The app connects to a secure SQL database that stores essential data like bus routes, seat availability, user profiles, and bookings. Users can register, search for routes, check seat availability, make reservations, and complete payments within the app. The back-end system handles authentication, route management, and booking processing, while the SQL database ensures data integrity and reliability. This efficient system streamlines the bus booking process, providing a convenient and hassle-free experience for travelers. we have deployed project on  Azure CI-CD pipelines.
 
 
